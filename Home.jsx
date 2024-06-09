@@ -1,2 +1,3 @@
 <Nav />
 <Hero />
+<Footer />
